@@ -37,7 +37,7 @@
 
 // network credentials
 const char* ssid     = "arpnetneu";
-const char* password = "n5i11wjzt1q4wx1czlu";
+const char* password = "PASSWORD";
 
 // Domain name and URL path or IP address with path
 const char* serverName = "https://matura.work/post-esp-data.php";
